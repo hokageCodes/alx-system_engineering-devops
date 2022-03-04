@@ -11,3 +11,4 @@
 | Directory | Description |
 | ----------- | ----------- |
 | 0x00-shell_basics | It aims to learn about basics commands, navigation, files and directories in Shell |
+|0x01-shell_permissions | It aims to learn about **man pages, permissions (owner, group and other)** of files and directories in Shell |

@@ -17,3 +17,7 @@ Project done during **Full Stack Software Engineering studies at Holberton Schoo
 | 11-lists | Lists all files in the current directory and its parent directory and the /boot directory|| 12-file_type | Prints the type of the file named **iamafile** that is in the **/tmp directory** |
 | 13-symbolic_link | Creates a symbolic link to **/bin/ls**, named **__ls__** |
 | 14-copy_html | Copies all the HTML files from the current working directory to the parent directory, but only copies files that did not exist in the parent directory |
+| 15-lets_move | Moves all files beginning with an uppercase letter to the directory **/tmp/**
+| 16-clean_emacs | Deletes all files in the current working directory that end with the character ~ |
+| 17-tree | Creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory |
+| 18-commas | Lists all the files and directories of the current directory, separated by commas (,) |
